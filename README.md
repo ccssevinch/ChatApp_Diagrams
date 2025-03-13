@@ -6,6 +6,7 @@ This document provides an overview of the system architecture, database design, 
 All diagrams are stored in the [Main_ChatApp_Diagrams](./Main_ChatApp_Diagrams/) folder within the Chat_App repository.
 
 <h3>Key Diagrams:</h3>
+
 - <h5>Class Diagram</h5> → Defines object structure & relationships.
 - <h5>Sequence Diagram</h5> → Shows interactions (requests/responses) between components.
 - <h5>Use Case Diagram</h5> → Maps user interactions with a system.
