@@ -12,4 +12,4 @@ All diagrams are stored in the <h5></h5>**[Main_ChatApp_Diagrams](./Main_ChatApp
 - <h5>Activity Diagram</h5> → Represents workflows & decision making.
 - <h5>State Machine Diagram</h5> → Shows the different states of an object and transitions.
 
-For detailed analysis, visit the **[Main_ChatApp_Diagrams](./Main_ChatApp_Diagrams/)Folder**.
+For detailed analysis, visit the **[Main_ChatApp_Diagrams](./Main_ChatApp_Diagrams/) Folder**.
